@@ -8,3 +8,4 @@ function showTheLove(arr) {
 	newArr.splice(arr.indexOf(smallest), 1, newSmallest)
 	return newArr
 }
+console.log(showTheLove([4, 1, 4]))
