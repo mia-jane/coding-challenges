@@ -8,6 +8,6 @@ function sumOddAndEven(arr) {
   );
 }
 
-const test1 = [1, 2, 3, 4];
+const test1 = [1, -2, 3, -4];
 const summed = sumOddAndEven(test1);
 console.log(summed);
